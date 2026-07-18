@@ -1,0 +1,47 @@
+Evidence : 2026-07-18T17:17:42.7823779+02:00
+Final  exit code: 0
+Final  checks: 11
+Final non-agreeing checks: 0
+Design: nine edge-case categories containing eleven individual checks.
+Final composition: nine formula checks, one direct CL-left rule-output check, and one invalid-coalition error check.
+Condition 2 = there should be at least one left coalition 
+Condition 11 =  coalition {10} outside the agent universe.
+The pre-correction format printed ten complete formula rows and Condition11 as a separate two-field line.
+The final prints eleven complete five-field rows; every final expectation matched.
+
+Compile command: stack ghc -- -fforce-recomp -O2 -ilib lib/Logic/Coalition/Evaluation/EdgeCases.hs -main-is Logic.Coalition.Evaluation.EdgeCases.main -o evaluation/edge-cases-evidence.exe
+Run command: .\evaluation\edge-cases-evidence.exe | Tee-Object -FilePath .\evaluation\edge-cases-output-final-2026-07-18.csv
+
+Stack version:
+Version 3.11.1, Git revision 2352d78a8ac5b42d021c8064b8f64ac1c8b8b3d5 x86_64 hpack-0.39.6
+
+GHC version:
+The Glorious Glasgow Haskell Compilation System, version 9.4.8
+
+SHA-256 hashes:
+
+Path      : C:\Users\User\Desktop\GenZ\lib\Logic\Coalition\Evaluation\EdgeCases.hs
+Algorithm : SHA256
+Hash      : 3445096347E0BF3DF6FFBF2A828CF399A9188B070AD39857E7491781D8C84D0F
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\edge-cases-evidence.exe
+Algorithm : SHA256
+Hash      : 3D46555E7391316365A938777832C779018617A66A6F81E7D45C0A7CD9C2CD83
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\edge-cases-output-final-2026-07-18.csv
+Algorithm : SHA256
+Hash      : 9B656AC049E7DAFDC11599BDDE0DD56813D2FE0E865A655053A40AEA6A563839
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\edge-history\EdgeCases-pre-correction-2026-07-18.hs
+Algorithm : SHA256
+Hash      : 84BAF0F9CDB2DC4E9A78CC13B8AC9ECA3E1E46D080548F546BB262F57D3171DB
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\edge-history\edge-cases-pre-correction.exe
+Algorithm : SHA256
+Hash      : 66833968BD830E0F694B884FAB5F74E29E2350D0AE6434BD65FFBDFBF72FC378
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\edge-history\edge-output-pre-correction-2026-07-18.txt
+Algorithm : SHA256
+Hash      : 1879A672DB2B431F97E86974D06CA8E8CE118C6E5E4F2C4250A7802C9041144A
+
+

@@ -1,0 +1,12 @@
+propertyName,isValid,isExpected,genZ,isAgreed
+condition1,True,True,True,True
+condition2,True,False,False,True
+condition3,True,False,False,True
+condition4,True,True,True,True
+condition5,True,True,True,True
+condition6,True,True,True,True
+condition7,True,False,False,True
+condition8,True,True,True,True
+condition9,True,True,True,True
+condition10,True,True,True,True
+Condition11,False

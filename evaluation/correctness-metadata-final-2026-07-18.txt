@@ -1,0 +1,28 @@
+Evidence recorded: 2026-07-18T04:34:28.2157305+02:00
+Exit code: 0
+Completed rows: 12
+Non-agreeing rows: 0
+Compile command: stack ghc -- -fforce-recomp -O2 -ilib lib/Logic/Coalition/Evaluation/Test/Correctness.hs -main-is Logic.Coalition.Evaluation.Test.Correctness.main -o evaluation/correctness-evidence.exe
+Run command: .\evaluation\correctness-evidence.exe | Tee-Object -FilePath evaluation\correctness-output-final-2026-07-18.csv
+
+Stack version:
+Version 3.11.1, Git revision 2352d78a8ac5b42d021c8064b8f64ac1c8b8b3d5 x86_64 hpack-0.39.6
+
+GHC version:
+The Glorious Glasgow Haskell Compilation System, version 9.4.8
+
+SHA-256 hashes:
+
+Path      : C:\Users\User\Desktop\GenZ\lib\Logic\Coalition\Evaluation\Test\Correctness.hs
+Algorithm : SHA256
+Hash      : 0ADF5524112E5ACDD081EBCFA63E276F9012DA68DE2C11C964C33250CFA7BAFE
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\correctness-evidence.exe
+Algorithm : SHA256
+Hash      : 14F342F0218DCF07378C2722BF529BBD05B70BA1B69AF137F2BB72E7C59CC663
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\correctness-output-final-2026-07-18.csv
+Algorithm : SHA256
+Hash      : 5DBD33D816F345F0E2D5D139F0A608FA7B3BE19448A42577DD942226B8682488
+
+

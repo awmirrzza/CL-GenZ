@@ -1,0 +1,57 @@
+.DS_Store
+desktop.ini
+*.aux
+*.bbl
+*.blg
+*.chi
+*.chs.h
+*.dyn_hi
+*.dyn_o
+*.eventlog
+*.fdb_latexmk
+*.fls
+*.hi
+*.hp
+*.log
+*.o
+*.out
+*.prof
+*.synctex.gz
+*.toc
+.cabal-sandbox/
+.hpc
+.hsenv
+.stack-work/
+cabal-dev
+cabal.sandbox.config
+dist
+dist-*
+*.cabal
+temp.*
+report.pdf
+bench/results*
+/benchmarks/LWB/logs
+/benchmarks/LWB/old
+/benchmarks/LWB/1_200_300s
+/benchmarks/LWB/2_200_300s
+/benchmarks/LWB/300_600s
+*.csv
+/benchmarks/ILTP/logs
+/benchmarks/ILTP/data
+*.pdf
+*.numbers
+*.time
+*.err
+# Do not upload compiled programs
+*.exe
+
+# Do not upload personal editor settings
+.vscode/
+
+# Keep thesis CSV evidence
+!/evaluation/*.csv
+!/evaluation/**/*.csv
+
+# Keep thesis PDF graphs
+!/evaluation/*.pdf
+!/evaluation/**/*.pdf

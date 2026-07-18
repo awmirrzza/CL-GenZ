@@ -1,0 +1,1 @@
+stack ghc -- -O2 -ilib lib/Logic/Coalition/Evaluation/Benchmark/Runtime.hs -main-is Logic.Coalition.Evaluation.Benchmark.Runtime.main -o evaluation/runtime-benchmark.exe

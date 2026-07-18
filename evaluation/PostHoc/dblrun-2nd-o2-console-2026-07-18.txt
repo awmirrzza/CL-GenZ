@@ -1,0 +1,404 @@
+coalition monotonicity
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,40,1,5,2,1,40,41,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.2051
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,40,2,5,2,1,40,41,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.63e-2
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,40,3,5,2,1,40,41,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1167
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,80,1,5,2,1,80,81,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 9.64e-2
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,80,2,5,2,1,80,81,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 6.47e-2
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,80,3,5,2,1,80,81,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 6.7e-2
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,160,1,5,2,1,160,161,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1664
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,160,2,5,2,1,160,161,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.114
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,160,3,5,2,1,160,161,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 8.69e-2
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,320,1,5,2,1,320,321,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.2352
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,320,2,5,2,1,320,321,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1236
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,320,3,5,2,1,320,321,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1613
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,640,1,5,2,1,640,641,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.3031
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,640,2,5,2,1,640,641,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.2055
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,640,3,5,2,1,640,641,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.2584
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,1280,1,5,2,1,1280,1281,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.3574
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,1280,2,5,2,1,1280,1281,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.4004
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,1280,3,5,2,1,1280,1281,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.7602
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,2560,1,5,2,1,2560,2561,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.3243
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,2560,2,5,2,1,2560,2561,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.3928
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,2560,3,5,2,1,2560,2561,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.3526
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,5120,1,5,2,1,5120,5121,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.5671
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,5120,2,5,2,1,5120,5121,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 2.0641
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,5120,3,5,2,1,5120,5121,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.5741
+ nesting boxes
+---------- Run 1 ----------
+Preparing: nestingBox,40,1,43,40,40,2,40,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 6.68e-2
+---------- Run 2 ----------
+Preparing: nestingBox,40,2,43,40,40,2,40,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.61e-2
+---------- Run 3 ----------
+Preparing: nestingBox,40,3,43,40,40,2,40,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 6.03e-2
+---------- Run 1 ----------
+Preparing: nestingBox,80,1,83,80,80,2,80,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 8.84e-2
+---------- Run 2 ----------
+Preparing: nestingBox,80,2,83,80,80,2,80,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1322
+---------- Run 3 ----------
+Preparing: nestingBox,80,3,83,80,80,2,80,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 6.14e-2
+---------- Run 1 ----------
+Preparing: nestingBox,160,1,163,160,160,2,160,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1507
+---------- Run 2 ----------
+Preparing: nestingBox,160,2,163,160,160,2,160,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 9.46e-2
+---------- Run 3 ----------
+Preparing: nestingBox,160,3,163,160,160,2,160,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1396
+---------- Run 1 ----------
+Preparing: nestingBox,320,1,323,320,320,2,320,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.3298
+---------- Run 2 ----------
+Preparing: nestingBox,320,2,323,320,320,2,320,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.2156
+---------- Run 3 ----------
+Preparing: nestingBox,320,3,323,320,320,2,320,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.23
+---------- Run 1 ----------
+Preparing: nestingBox,640,1,643,640,640,2,640,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.3721
+---------- Run 2 ----------
+Preparing: nestingBox,640,2,643,640,640,2,640,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.6589
+---------- Run 3 ----------
+Preparing: nestingBox,640,3,643,640,640,2,640,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.4753
+---------- Run 1 ----------
+Preparing: nestingBox,1280,1,1283,1280,1280,2,1280,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 2.1257
+---------- Run 2 ----------
+Preparing: nestingBox,1280,2,1283,1280,1280,2,1280,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.6496
+---------- Run 3 ----------
+Preparing: nestingBox,1280,3,1283,1280,1280,2,1280,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.9507
+---------- Run 1 ----------
+Preparing: nestingBox,2560,1,2563,2560,2560,2,2560,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 2.0709
+---------- Run 2 ----------
+Preparing: nestingBox,2560,2,2563,2560,2560,2,2560,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 3.7817
+---------- Run 3 ----------
+Preparing: nestingBox,2560,3,2563,2560,2560,2,2560,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 3.6978
+---------- Run 1 ----------
+Preparing: nestingBox,5120,1,5123,5120,5120,2,5120,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 11.9587
+---------- Run 2 ----------
+Preparing: nestingBox,5120,2,5123,5120,5120,2,5120,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 7.7838
+---------- Run 3 ----------
+Preparing: nestingBox,5120,3,5123,5120,5120,2,5120,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 8.8877
+ outcome monotonicity 
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,40,1,83,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.4773
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,40,2,83,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.4803
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,40,3,83,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.4385
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,80,1,163,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.1019
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,80,2,163,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.1653
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,80,3,163,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.9467
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,160,1,323,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 46.7012
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,160,2,323,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 20.4544
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,160,3,323,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 25.2177
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,320,1,643,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 198.8491
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,320,2,643,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 169.347
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,320,3,643,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 169.8589
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,640,1,1283,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 1356.4046
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,640,2,1283,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 1335.1966
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,640,3,1283,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 1266.6172
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,1280,1,2563,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 13734.4143
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,1280,2,2563,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 13494.7367
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,1280,3,2563,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 13455.5832
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,2560,1,5123,2,1,2,2,True,True
+Status: Timeout at 100 seconds
+family stopped
+ doubling experiment finished

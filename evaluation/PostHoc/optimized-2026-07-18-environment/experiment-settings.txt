@@ -1,0 +1,8 @@
+Execution mode: compiled executable
+Optimization: GHC -O2
+Timeout per run: 100 seconds
+Repetitions per completed instance: 3
+Reported summary: median of 3 completed runs
+Runtime unit: milliseconds
+Exit code: not captured
+Console completion message: captured

@@ -1,0 +1,5 @@
+
+Manufacturer        : LENOVO
+Model               : 80WK
+TotalPhysicalMemory : 17048965120
+

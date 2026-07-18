@@ -1,0 +1,71 @@
+\documentclass{article}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.17}
+
+\usepackage[margin=2cm]{geometry}
+
+\title{Runtime benchmark results for GenZ and GenT}
+\author{}
+
+\begin{document}
+
+\maketitle
+
+Note: ``Tree'' is GenT and ``Zip'' is GenZ, and ``L'' and ``R'' indicate the \texttt{foldl} and \texttt{foldr} variants.
+
+\pgfplotsset{
+  every axis/.style={
+    font=\scriptsize,
+    legend pos=north west, grid=major, width=8cm,
+    ylabel=seconds, ymode=log,
+    xlabel=formula length,
+    unbounded coords=jump,
+  }
+}
+\pgfplotsset{
+  every axis legend/.append style={
+    font=\small, legend image post style={scale=0.5},
+    legend columns=-1,
+    font=\scriptsize,
+  }
+}
+
+\bigskip
+
+\centering
+
+% #1 = formula
+% #2 = logic
+\newcommand{\fourplot}[2]{
+\begin{tikzpicture}
+  \pgfplotstableread{results.csv.dat}\datatable
+  \begin{axis}[xlabel=\textbf{#1 #2} formula length]
+    \addlegendentry{TreeR} \addplot table[y=#1-R-#2-GenT] from \datatable;
+    \addlegendentry{ZipR}  \addplot table[y=#1-R-#2-GenZ] from \datatable;
+    \addlegendentry{TreeL} \addplot table[y=#1-L-#2-GenT] from \datatable;
+    \addlegendentry{ZipL}  \addplot table[y=#1-L-#2-GenZ] from \datatable;
+  \end{axis}
+\end{tikzpicture}
+}
+
+% #1 = formula
+% #2 = logic
+\newcommand{\twoplot}[2]{
+\begin{tikzpicture}
+  \pgfplotstableread{results.csv.dat}\datatable
+  \begin{axis}[xlabel=\textbf{#1 #2} formula length]
+    \addlegendentry{Tree} \addplot table[y=#1-#2-GenT] from \datatable;
+    \addlegendentry{Zip}  \addplot table[y=#1-#2-GenZ] from \datatable;
+  \end{axis}
+\end{tikzpicture}
+}
+
+\fourplot{conPei}{IPL}
+\twoplot{boxesTop}{K}
+
+\bigskip
+
+\twoplot{lobBoxes}{K4}
+\twoplot{lobBoxes}{GL}
+
+\end{document}

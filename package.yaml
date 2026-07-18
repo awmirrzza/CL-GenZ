@@ -1,0 +1,115 @@
+name: GenZ
+version: 0.1.0.0
+synopsis: Generic Sequent Calculus Prover using the Zipper
+description: See README.md for example usage and documentation.
+maintainer: Xiaoshuang Yang <thuyxs17@gmail.com>
+license: GPL-3
+github: XiaoshuangYang999/GenZ
+category: Logic
+
+ghc-options: -Wall
+
+extra-source-files:
+  - README.md
+  - LICENSE
+  - stack.yaml
+  - package.yaml
+  - lib/FormM/Parse.y
+  - lib/FormP/Parse.y
+  - lib/General/Lex.x
+  - exec/index.html
+
+dependencies:
+  - array >= 0.5.4 && < 0.6
+  - base >= 4.8 && < 5
+  - bytestring >= 0.11.5 && < 0.12
+  - containers >= 0.6.7 && < 0.7
+  - directory >= 1.3.7 && < 1.4
+  - filepath >= 1.4.2 && < 1.5
+  - graphviz >= 2999.20.2 && < 2999.21
+  - hspec >= 2.10.10 && < 2.12
+  - multiset >= 0.3.4 && < 0.4
+  - process >= 1.6.18 && < 1.7
+  - QuickCheck >= 2.4.3 && < 2.19
+  - random >= 1.2.1 && < 1.4
+  - tagged >= 0.8.7 && < 0.9
+  - temporary >= 1.3 && < 1.4
+
+build-tools:
+  - alex
+  - happy
+
+library:
+  source-dirs: lib
+
+executables:
+  genz:
+    source-dirs: exec
+    main: genz.hs
+    ghc-options: -Wall -threaded
+    dependencies:
+      - base >= 4.8 && < 5
+      - optparse-applicative >= 0.17.1 && < 0.18
+      - GenZ
+  genz-web:
+    source-dirs: exec
+    main: genz-web.hs
+    ghc-options: -Wall -threaded
+    dependencies:
+      - base >= 4.8 && < 5
+      - file-embed >= 0.0.15 && < 0.1
+      - js-jquery >= 3.3.1 && < 4
+      - scotty >= 0.12 && < 0.13
+      - GenZ
+      - template-haskell >= 2.19.0 && < 2.21
+      - text >= 2.0.2 && < 2.1
+      - warp >= 3.3.25 && < 3.5
+
+  form-size:
+    source-dirs: exec
+    main: form-size.hs
+    ghc-options: -Wall -threaded
+    dependencies:
+      - base >= 4.8 && < 5
+      - GenZ
+
+  tptp-size:
+    source-dirs: exec
+    main: tptp-size.hs
+    ghc-options: -Wall -threaded
+    dependencies:
+      - base >= 4.8 && < 5
+      - GenZ
+
+tests:
+  Test:
+    main: Test.hs
+    ghc-options: -Wall -threaded -rtsopts -with-rtsopts=-N
+    source-dirs: test
+    dependencies:
+      - GenZ
+      - QuickCheck >= 2.14.3 && < 2.15
+      - hspec
+
+benchmarks:
+  runtime:
+    source-dirs: bench
+    main: runtime.hs
+    dependencies:
+      - base >= 4.8 && < 5
+      - bytestring
+      - cassava
+      - criterion
+      - directory
+      - scientific
+      - GenZ
+      - split
+      - vector
+  memory:
+    source-dirs: bench
+    ghc-options: -rtsopts
+    main: memory.hs
+    dependencies:
+      - base >= 4.8 && < 5
+      - GenZ
+      - weigh

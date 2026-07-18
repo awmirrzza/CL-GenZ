@@ -1,0 +1,2356 @@
+===== Superadditivity =====
+---------- Run 1 ----------
+Preparing: superadditivity,2,1,10,3,1,2,4,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.249
+---------- Run 2 ----------
+Preparing: superadditivity,2,2,10,3,1,2,4,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 9.52e-2
+---------- Run 3 ----------
+Preparing: superadditivity,2,3,10,3,1,2,4,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.144
+---------- Run 1 ----------
+Preparing: superadditivity,3,1,15,4,1,3,6,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.237
+---------- Run 2 ----------
+Preparing: superadditivity,3,2,15,4,1,3,6,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1437
+---------- Run 3 ----------
+Preparing: superadditivity,3,3,15,4,1,3,6,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1074
+---------- Run 1 ----------
+Preparing: superadditivity,4,1,20,5,1,4,8,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.2414
+---------- Run 2 ----------
+Preparing: superadditivity,4,2,20,5,1,4,8,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.2792
+---------- Run 3 ----------
+Preparing: superadditivity,4,3,20,5,1,4,8,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.245
+---------- Run 1 ----------
+Preparing: superadditivity,5,1,25,6,1,5,10,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.3545
+---------- Run 2 ----------
+Preparing: superadditivity,5,2,25,6,1,5,10,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.3713
+---------- Run 3 ----------
+Preparing: superadditivity,5,3,25,6,1,5,10,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.421
+---------- Run 1 ----------
+Preparing: superadditivity,6,1,30,7,1,6,12,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.8207
+---------- Run 2 ----------
+Preparing: superadditivity,6,2,30,7,1,6,12,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.6544
+---------- Run 3 ----------
+Preparing: superadditivity,6,3,30,7,1,6,12,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.7495
+---------- Run 1 ----------
+Preparing: superadditivity,7,1,35,8,1,7,14,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 1.1859
+---------- Run 2 ----------
+Preparing: superadditivity,7,2,35,8,1,7,14,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 1.0083
+---------- Run 3 ----------
+Preparing: superadditivity,7,3,35,8,1,7,14,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.8283
+---------- Run 1 ----------
+Preparing: superadditivity,8,1,40,9,1,8,16,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 3.0095
+---------- Run 2 ----------
+Preparing: superadditivity,8,2,40,9,1,8,16,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 2.398
+---------- Run 3 ----------
+Preparing: superadditivity,8,3,40,9,1,8,16,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 1.7286
+---------- Run 1 ----------
+Preparing: superadditivity,9,1,45,10,1,9,18,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 3.9009
+---------- Run 2 ----------
+Preparing: superadditivity,9,2,45,10,1,9,18,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 3.9045
+---------- Run 3 ----------
+Preparing: superadditivity,9,3,45,10,1,9,18,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 3.9166
+---------- Run 1 ----------
+Preparing: superadditivity,10,1,50,11,1,10,20,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 9.9412
+---------- Run 2 ----------
+Preparing: superadditivity,10,2,50,11,1,10,20,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 9.1484
+---------- Run 3 ----------
+Preparing: superadditivity,10,3,50,11,1,10,20,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 10.9105
+---------- Run 1 ----------
+Preparing: superadditivity,11,1,55,12,1,11,22,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 59.0242
+---------- Run 2 ----------
+Preparing: superadditivity,11,2,55,12,1,11,22,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 32.4055
+---------- Run 3 ----------
+Preparing: superadditivity,11,3,55,12,1,11,22,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 19.5509
+---------- Run 1 ----------
+Preparing: superadditivity,12,1,60,13,1,12,24,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 46.3466
+---------- Run 2 ----------
+Preparing: superadditivity,12,2,60,13,1,12,24,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 46.6233
+---------- Run 3 ----------
+Preparing: superadditivity,12,3,60,13,1,12,24,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 46.0247
+---------- Run 1 ----------
+Preparing: superadditivity,13,1,65,14,1,13,26,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 107.2021
+---------- Run 2 ----------
+Preparing: superadditivity,13,2,65,14,1,13,26,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 97.048
+---------- Run 3 ----------
+Preparing: superadditivity,13,3,65,14,1,13,26,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 97.4152
+---------- Run 1 ----------
+Preparing: superadditivity,14,1,70,15,1,14,28,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 205.9584
+---------- Run 2 ----------
+Preparing: superadditivity,14,2,70,15,1,14,28,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 220.7819
+---------- Run 3 ----------
+Preparing: superadditivity,14,3,70,15,1,14,28,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 224.6987
+---------- Run 1 ----------
+Preparing: superadditivity,15,1,75,16,1,15,30,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 457.8434
+---------- Run 2 ----------
+Preparing: superadditivity,15,2,75,16,1,15,30,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 453.5533
+---------- Run 3 ----------
+Preparing: superadditivity,15,3,75,16,1,15,30,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 455.0874
+---------- Run 1 ----------
+Preparing: superadditivity,16,1,80,17,1,16,32,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 1015.2033
+---------- Run 2 ----------
+Preparing: superadditivity,16,2,80,17,1,16,32,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 1017.5718
+---------- Run 3 ----------
+Preparing: superadditivity,16,3,80,17,1,16,32,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 1138.334
+---------- Run 1 ----------
+Preparing: superadditivity,17,1,85,18,1,17,34,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 2183.2738
+---------- Run 2 ----------
+Preparing: superadditivity,17,2,85,18,1,17,34,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 2220.7471
+---------- Run 3 ----------
+Preparing: superadditivity,17,3,85,18,1,17,34,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 2394.0722
+---------- Run 1 ----------
+Preparing: superadditivity,18,1,90,19,1,18,36,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 8321.6137
+---------- Run 2 ----------
+Preparing: superadditivity,18,2,90,19,1,18,36,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4856.4327
+---------- Run 3 ----------
+Preparing: superadditivity,18,3,90,19,1,18,36,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4786.8814
+---------- Run 1 ----------
+Preparing: superadditivity,19,1,95,20,1,19,38,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 10678.6371
+---------- Run 2 ----------
+Preparing: superadditivity,19,2,95,20,1,19,38,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 10648.1381
+---------- Run 3 ----------
+Preparing: superadditivity,19,3,95,20,1,19,38,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 10664.5824
+---------- Run 1 ----------
+Preparing: superadditivity,20,1,100,21,1,20,40,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 21798.8577
+---------- Run 2 ----------
+Preparing: superadditivity,20,2,100,21,1,20,40,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 22337.9353
+---------- Run 3 ----------
+Preparing: superadditivity,20,3,100,21,1,20,40,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 21996.7316
+---------- Run 1 ----------
+Preparing: superadditivity,21,1,105,22,1,21,42,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 46702.2582
+---------- Run 2 ----------
+Preparing: superadditivity,21,2,105,22,1,21,42,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 46088.9408
+---------- Run 3 ----------
+Preparing: superadditivity,21,3,105,22,1,21,42,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 46514.4479
+===== Failed superadditivity =====
+---------- Run 1 ----------
+Preparing: superadditivityprime,2,1,10,3,1,2,3,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 7.55e-2
+---------- Run 2 ----------
+Preparing: superadditivityprime,2,2,10,3,1,2,3,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 8.97e-2
+---------- Run 3 ----------
+Preparing: superadditivityprime,2,3,10,3,1,2,3,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 9.48e-2
+---------- Run 1 ----------
+Preparing: superadditivityprime,3,1,15,4,1,3,5,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 0.2344
+---------- Run 2 ----------
+Preparing: superadditivityprime,3,2,15,4,1,3,5,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 6.77e-2
+---------- Run 3 ----------
+Preparing: superadditivityprime,3,3,15,4,1,3,5,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 0.12
+---------- Run 1 ----------
+Preparing: superadditivityprime,4,1,20,5,1,4,7,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 0.1015
+---------- Run 2 ----------
+Preparing: superadditivityprime,4,2,20,5,1,4,7,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 0.1094
+---------- Run 3 ----------
+Preparing: superadditivityprime,4,3,20,5,1,4,7,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 0.1376
+---------- Run 1 ----------
+Preparing: superadditivityprime,5,1,25,6,1,5,9,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 0.1683
+---------- Run 2 ----------
+Preparing: superadditivityprime,5,2,25,6,1,5,9,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 0.1914
+---------- Run 3 ----------
+Preparing: superadditivityprime,5,3,25,6,1,5,9,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 0.1757
+---------- Run 1 ----------
+Preparing: superadditivityprime,6,1,30,7,1,6,11,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 0.3463
+---------- Run 2 ----------
+Preparing: superadditivityprime,6,2,30,7,1,6,11,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 0.333
+---------- Run 3 ----------
+Preparing: superadditivityprime,6,3,30,7,1,6,11,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 0.328
+---------- Run 1 ----------
+Preparing: superadditivityprime,7,1,35,8,1,7,13,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 0.5752
+---------- Run 2 ----------
+Preparing: superadditivityprime,7,2,35,8,1,7,13,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 0.6189
+---------- Run 3 ----------
+Preparing: superadditivityprime,7,3,35,8,1,7,13,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 1.4468
+---------- Run 1 ----------
+Preparing: superadditivityprime,8,1,40,9,1,8,15,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 3.129
+---------- Run 2 ----------
+Preparing: superadditivityprime,8,2,40,9,1,8,15,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 1.8154
+---------- Run 3 ----------
+Preparing: superadditivityprime,8,3,40,9,1,8,15,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 1.788
+---------- Run 1 ----------
+Preparing: superadditivityprime,9,1,45,10,1,9,17,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 3.5502
+---------- Run 2 ----------
+Preparing: superadditivityprime,9,2,45,10,1,9,17,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 2.4822
+---------- Run 3 ----------
+Preparing: superadditivityprime,9,3,45,10,1,9,17,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 2.6661
+---------- Run 1 ----------
+Preparing: superadditivityprime,10,1,50,11,1,10,19,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 5.3417
+---------- Run 2 ----------
+Preparing: superadditivityprime,10,2,50,11,1,10,19,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 5.3667
+---------- Run 3 ----------
+Preparing: superadditivityprime,10,3,50,11,1,10,19,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 5.3015
+---------- Run 1 ----------
+Preparing: superadditivityprime,11,1,55,12,1,11,21,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 18.3785
+---------- Run 2 ----------
+Preparing: superadditivityprime,11,2,55,12,1,11,21,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 11.9535
+---------- Run 3 ----------
+Preparing: superadditivityprime,11,3,55,12,1,11,21,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 11.462
+---------- Run 1 ----------
+Preparing: superadditivityprime,12,1,60,13,1,12,23,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 25.847
+---------- Run 2 ----------
+Preparing: superadditivityprime,12,2,60,13,1,12,23,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 26.7128
+---------- Run 3 ----------
+Preparing: superadditivityprime,12,3,60,13,1,12,23,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 26.7267
+---------- Run 1 ----------
+Preparing: superadditivityprime,13,1,65,14,1,13,25,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 60.5976
+---------- Run 2 ----------
+Preparing: superadditivityprime,13,2,65,14,1,13,25,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 60.2165
+---------- Run 3 ----------
+Preparing: superadditivityprime,13,3,65,14,1,13,25,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 58.3761
+---------- Run 1 ----------
+Preparing: superadditivityprime,14,1,70,15,1,14,27,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 125.7018
+---------- Run 2 ----------
+Preparing: superadditivityprime,14,2,70,15,1,14,27,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 127.7509
+---------- Run 3 ----------
+Preparing: superadditivityprime,14,3,70,15,1,14,27,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 128.6649
+---------- Run 1 ----------
+Preparing: superadditivityprime,15,1,75,16,1,15,29,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 285.3418
+---------- Run 2 ----------
+Preparing: superadditivityprime,15,2,75,16,1,15,29,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 291.0669
+---------- Run 3 ----------
+Preparing: superadditivityprime,15,3,75,16,1,15,29,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 281.0966
+---------- Run 1 ----------
+Preparing: superadditivityprime,16,1,80,17,1,16,31,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 681.8194
+---------- Run 2 ----------
+Preparing: superadditivityprime,16,2,80,17,1,16,31,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 656.1107
+---------- Run 3 ----------
+Preparing: superadditivityprime,16,3,80,17,1,16,31,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 611.5291
+---------- Run 1 ----------
+Preparing: superadditivityprime,17,1,85,18,1,17,33,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 1321.0706
+---------- Run 2 ----------
+Preparing: superadditivityprime,17,2,85,18,1,17,33,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 1379.7553
+---------- Run 3 ----------
+Preparing: superadditivityprime,17,3,85,18,1,17,33,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 1421.344
+---------- Run 1 ----------
+Preparing: superadditivityprime,18,1,90,19,1,18,35,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 2949.0207
+---------- Run 2 ----------
+Preparing: superadditivityprime,18,2,90,19,1,18,35,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 2982.3406
+---------- Run 3 ----------
+Preparing: superadditivityprime,18,3,90,19,1,18,35,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 2963.8896
+---------- Run 1 ----------
+Preparing: superadditivityprime,19,1,95,20,1,19,37,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 6460.0958
+---------- Run 2 ----------
+Preparing: superadditivityprime,19,2,95,20,1,19,37,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 6287.6938
+---------- Run 3 ----------
+Preparing: superadditivityprime,19,3,95,20,1,19,37,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 6344.7514
+---------- Run 1 ----------
+Preparing: superadditivityprime,20,1,100,21,1,20,39,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 13569.4805
+---------- Run 2 ----------
+Preparing: superadditivityprime,20,2,100,21,1,20,39,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 13549.9567
+---------- Run 3 ----------
+Preparing: superadditivityprime,20,3,100,21,1,20,39,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 13657.553
+---------- Run 1 ----------
+Preparing: superadditivityprime,21,1,105,22,1,21,41,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 29513.7422
+---------- Run 2 ----------
+Preparing: superadditivityprime,21,2,105,22,1,21,41,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 29614.0775
+---------- Run 3 ----------
+Preparing: superadditivityprime,21,3,105,22,1,21,41,False,True
+Status: Completed
+GenZ answer: False
+Agreement: True
+Runtime: 30302.0733
+===== Outcome monotonicity =====
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,2,1,7,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.2e-2
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,2,2,7,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 8.24e-2
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,2,3,7,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 8.0e-2
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,3,1,9,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 7.88e-2
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,3,2,9,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.79e-2
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,3,3,9,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 6.56e-2
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,4,1,11,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.91e-2
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,4,2,11,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 6.0e-2
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,4,3,11,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.22e-2
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,5,1,13,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.84e-2
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,5,2,13,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1111
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,5,3,13,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.2e-2
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,6,1,15,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 6.88e-2
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,6,2,15,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.67e-2
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,6,3,15,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 7.49e-2
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,7,1,17,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 8.1e-2
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,7,2,17,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.68e-2
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,7,3,17,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 7.51e-2
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,8,1,19,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1139
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,8,2,19,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1232
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,8,3,19,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 8.92e-2
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,9,1,21,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.128
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,9,2,21,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1103
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,9,3,21,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 6.3e-2
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,10,1,23,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 6.99e-2
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,10,2,23,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 7.02e-2
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,10,3,23,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1012
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,11,1,25,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.106
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,11,2,25,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 9.86e-2
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,11,3,25,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 7.23e-2
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,12,1,27,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1954
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,12,2,27,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.2418
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,12,3,27,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1371
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,13,1,29,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1307
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,13,2,29,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1291
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,13,3,29,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1736
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,14,1,31,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1422
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,14,2,31,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1311
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,14,3,31,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1203
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,15,1,33,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1796
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,15,2,33,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1457
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,15,3,33,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.141
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,16,1,35,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.105
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,16,2,35,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1616
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,16,3,35,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1757
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,17,1,37,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.2829
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,17,2,37,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.141
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,17,3,37,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 9.67e-2
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,18,1,39,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1378
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,18,2,39,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.114
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,18,3,39,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1061
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,19,1,41,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1988
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,19,2,41,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1253
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,19,3,41,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.2041
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,20,1,43,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.2495
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,20,2,43,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.3176
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,20,3,43,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1697
+---------- Run 1 ----------
+Preparing: outcomeMonotonicity,21,1,45,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1822
+---------- Run 2 ----------
+Preparing: outcomeMonotonicity,21,2,45,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1637
+---------- Run 3 ----------
+Preparing: outcomeMonotonicity,21,3,45,2,1,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1643
+===== Coalition monotonicity =====
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,2,1,5,2,1,2,3,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.2e-2
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,2,2,5,2,1,2,3,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 6.33e-2
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,2,3,5,2,1,2,3,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.66e-2
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,3,1,5,2,1,3,4,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 9.2e-2
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,3,2,5,2,1,3,4,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.31e-2
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,3,3,5,2,1,3,4,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.98e-2
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,4,1,5,2,1,4,5,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.26e-2
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,4,2,5,2,1,4,5,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.81e-2
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,4,3,5,2,1,4,5,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.72e-2
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,5,1,5,2,1,5,6,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.48e-2
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,5,2,5,2,1,5,6,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.24e-2
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,5,3,5,2,1,5,6,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.46e-2
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,6,1,5,2,1,6,7,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.14e-2
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,6,2,5,2,1,6,7,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 6.82e-2
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,6,3,5,2,1,6,7,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.03e-2
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,7,1,5,2,1,7,8,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 9.07e-2
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,7,2,5,2,1,7,8,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.44e-2
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,7,3,5,2,1,7,8,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.18e-2
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,8,1,5,2,1,8,9,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.15e-2
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,8,2,5,2,1,8,9,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.6e-2
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,8,3,5,2,1,8,9,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.21e-2
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,9,1,5,2,1,9,10,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.23e-2
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,9,2,5,2,1,9,10,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 6.93e-2
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,9,3,5,2,1,9,10,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 6.31e-2
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,10,1,5,2,1,10,11,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.54e-2
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,10,2,5,2,1,10,11,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.51e-2
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,10,3,5,2,1,10,11,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.71e-2
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,11,1,5,2,1,11,12,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.33e-2
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,11,2,5,2,1,11,12,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.45e-2
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,11,3,5,2,1,11,12,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.76e-2
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,12,1,5,2,1,12,13,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.09e-2
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,12,2,5,2,1,12,13,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.53e-2
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,12,3,5,2,1,12,13,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 8.39e-2
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,13,1,5,2,1,13,14,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.36e-2
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,13,2,5,2,1,13,14,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.95e-2
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,13,3,5,2,1,13,14,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.68e-2
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,14,1,5,2,1,14,15,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.28e-2
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,14,2,5,2,1,14,15,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.53e-2
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,14,3,5,2,1,14,15,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.103
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,15,1,5,2,1,15,16,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1285
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,15,2,5,2,1,15,16,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.46e-2
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,15,3,5,2,1,15,16,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.87e-2
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,16,1,5,2,1,16,17,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.17e-2
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,16,2,5,2,1,16,17,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 7.68e-2
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,16,3,5,2,1,16,17,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.09e-2
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,17,1,5,2,1,17,18,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.07e-2
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,17,2,5,2,1,17,18,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.33e-2
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,17,3,5,2,1,17,18,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.19e-2
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,18,1,5,2,1,18,19,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 6.19e-2
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,18,2,5,2,1,18,19,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 8.92e-2
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,18,3,5,2,1,18,19,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.34e-2
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,19,1,5,2,1,19,20,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.55e-2
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,19,2,5,2,1,19,20,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.42e-2
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,19,3,5,2,1,19,20,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.55e-2
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,20,1,5,2,1,20,21,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.28e-2
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,20,2,5,2,1,20,21,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.15e-2
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,20,3,5,2,1,20,21,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 9.81e-2
+---------- Run 1 ----------
+Preparing: coalitionMonotonicity,21,1,5,2,1,21,22,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.67e-2
+---------- Run 2 ----------
+Preparing: coalitionMonotonicity,21,2,5,2,1,21,22,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.99e-2
+---------- Run 3 ----------
+Preparing: coalitionMonotonicity,21,3,5,2,1,21,22,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.53e-2
+===== Nesting boxes =====
+---------- Run 1 ----------
+Preparing: nestingBox,1,1,4,1,1,2,1,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.2e-2
+---------- Run 2 ----------
+Preparing: nestingBox,1,2,4,1,1,2,1,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 3.43e-2
+---------- Run 3 ----------
+Preparing: nestingBox,1,3,4,1,1,2,1,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 3.2e-2
+---------- Run 1 ----------
+Preparing: nestingBox,2,1,5,2,2,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 3.86e-2
+---------- Run 2 ----------
+Preparing: nestingBox,2,2,5,2,2,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1139
+---------- Run 3 ----------
+Preparing: nestingBox,2,3,5,2,2,2,2,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 6.73e-2
+---------- Run 1 ----------
+Preparing: nestingBox,3,1,6,3,3,2,3,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.29e-2
+---------- Run 2 ----------
+Preparing: nestingBox,3,2,6,3,3,2,3,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.16e-2
+---------- Run 3 ----------
+Preparing: nestingBox,3,3,6,3,3,2,3,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.39e-2
+---------- Run 1 ----------
+Preparing: nestingBox,4,1,7,4,4,2,4,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 2.78e-2
+---------- Run 2 ----------
+Preparing: nestingBox,4,2,7,4,4,2,4,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 3.8e-2
+---------- Run 3 ----------
+Preparing: nestingBox,4,3,7,4,4,2,4,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 7.04e-2
+---------- Run 1 ----------
+Preparing: nestingBox,5,1,8,5,5,2,5,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1045
+---------- Run 2 ----------
+Preparing: nestingBox,5,2,8,5,5,2,5,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 3.46e-2
+---------- Run 3 ----------
+Preparing: nestingBox,5,3,8,5,5,2,5,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.11e-2
+---------- Run 1 ----------
+Preparing: nestingBox,6,1,9,6,6,2,6,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.51e-2
+---------- Run 2 ----------
+Preparing: nestingBox,6,2,9,6,6,2,6,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 3.99e-2
+---------- Run 3 ----------
+Preparing: nestingBox,6,3,9,6,6,2,6,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 6.93e-2
+---------- Run 1 ----------
+Preparing: nestingBox,7,1,10,7,7,2,7,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.36e-2
+---------- Run 2 ----------
+Preparing: nestingBox,7,2,10,7,7,2,7,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.43e-2
+---------- Run 3 ----------
+Preparing: nestingBox,7,3,10,7,7,2,7,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 3.33e-2
+---------- Run 1 ----------
+Preparing: nestingBox,8,1,11,8,8,2,8,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.174
+---------- Run 2 ----------
+Preparing: nestingBox,8,2,11,8,8,2,8,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 3.85e-2
+---------- Run 3 ----------
+Preparing: nestingBox,8,3,11,8,8,2,8,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.43e-2
+---------- Run 1 ----------
+Preparing: nestingBox,9,1,12,9,9,2,9,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.13e-2
+---------- Run 2 ----------
+Preparing: nestingBox,9,2,12,9,9,2,9,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.43e-2
+---------- Run 3 ----------
+Preparing: nestingBox,9,3,12,9,9,2,9,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 7.8e-2
+---------- Run 1 ----------
+Preparing: nestingBox,10,1,13,10,10,2,10,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.25e-2
+---------- Run 2 ----------
+Preparing: nestingBox,10,2,13,10,10,2,10,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 3.29e-2
+---------- Run 3 ----------
+Preparing: nestingBox,10,3,13,10,10,2,10,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.89e-2
+---------- Run 1 ----------
+Preparing: nestingBox,11,1,14,11,11,2,11,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 8.55e-2
+---------- Run 2 ----------
+Preparing: nestingBox,11,2,14,11,11,2,11,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.51e-2
+---------- Run 3 ----------
+Preparing: nestingBox,11,3,14,11,11,2,11,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.37e-2
+---------- Run 1 ----------
+Preparing: nestingBox,12,1,15,12,12,2,12,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 3.33e-2
+---------- Run 2 ----------
+Preparing: nestingBox,12,2,15,12,12,2,12,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.03e-2
+---------- Run 3 ----------
+Preparing: nestingBox,12,3,15,12,12,2,12,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.52e-2
+---------- Run 1 ----------
+Preparing: nestingBox,13,1,16,13,13,2,13,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.29e-2
+---------- Run 2 ----------
+Preparing: nestingBox,13,2,16,13,13,2,13,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 8.07e-2
+---------- Run 3 ----------
+Preparing: nestingBox,13,3,16,13,13,2,13,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.77e-2
+---------- Run 1 ----------
+Preparing: nestingBox,14,1,17,14,14,2,14,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.31e-2
+---------- Run 2 ----------
+Preparing: nestingBox,14,2,17,14,14,2,14,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.3e-2
+---------- Run 3 ----------
+Preparing: nestingBox,14,3,17,14,14,2,14,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.86e-2
+---------- Run 1 ----------
+Preparing: nestingBox,15,1,18,15,15,2,15,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.51e-2
+---------- Run 2 ----------
+Preparing: nestingBox,15,2,18,15,15,2,15,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.55e-2
+---------- Run 3 ----------
+Preparing: nestingBox,15,3,18,15,15,2,15,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.99e-2
+---------- Run 1 ----------
+Preparing: nestingBox,16,1,19,16,16,2,16,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 8.63e-2
+---------- Run 2 ----------
+Preparing: nestingBox,16,2,19,16,16,2,16,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.02e-2
+---------- Run 3 ----------
+Preparing: nestingBox,16,3,19,16,16,2,16,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.51e-2
+---------- Run 1 ----------
+Preparing: nestingBox,17,1,20,17,17,2,17,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.18e-2
+---------- Run 2 ----------
+Preparing: nestingBox,17,2,20,17,17,2,17,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.22e-2
+---------- Run 3 ----------
+Preparing: nestingBox,17,3,20,17,17,2,17,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.53e-2
+---------- Run 1 ----------
+Preparing: nestingBox,18,1,21,18,18,2,18,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 7.46e-2
+---------- Run 2 ----------
+Preparing: nestingBox,18,2,21,18,18,2,18,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.68e-2
+---------- Run 3 ----------
+Preparing: nestingBox,18,3,21,18,18,2,18,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.99e-2
+---------- Run 1 ----------
+Preparing: nestingBox,19,1,22,19,19,2,19,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.42e-2
+---------- Run 2 ----------
+Preparing: nestingBox,19,2,22,19,19,2,19,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.43e-2
+---------- Run 3 ----------
+Preparing: nestingBox,19,3,22,19,19,2,19,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.64e-2
+---------- Run 1 ----------
+Preparing: nestingBox,20,1,23,20,20,2,20,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 3.7e-2
+---------- Run 2 ----------
+Preparing: nestingBox,20,2,23,20,20,2,20,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 3.63e-2
+---------- Run 3 ----------
+Preparing: nestingBox,20,3,23,20,20,2,20,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.09e-2
+===== Chain =====
+---------- Run 1 ----------
+Preparing: chainCL,2,1,10,3,1,2,4,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.91e-2
+---------- Run 2 ----------
+Preparing: chainCL,2,2,10,3,1,2,4,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 7.59e-2
+---------- Run 3 ----------
+Preparing: chainCL,2,3,10,3,1,2,4,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 7.29e-2
+---------- Run 1 ----------
+Preparing: chainCL,3,1,15,4,1,3,6,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 9.19e-2
+---------- Run 2 ----------
+Preparing: chainCL,3,2,15,4,1,3,6,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1232
+---------- Run 3 ----------
+Preparing: chainCL,3,3,15,4,1,3,6,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1384
+---------- Run 1 ----------
+Preparing: chainCL,4,1,20,5,1,4,8,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.2912
+---------- Run 2 ----------
+Preparing: chainCL,4,2,20,5,1,4,8,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.198
+---------- Run 3 ----------
+Preparing: chainCL,4,3,20,5,1,4,8,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1879
+---------- Run 1 ----------
+Preparing: chainCL,5,1,25,6,1,5,10,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.4831
+---------- Run 2 ----------
+Preparing: chainCL,5,2,25,6,1,5,10,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.7582
+---------- Run 3 ----------
+Preparing: chainCL,5,3,25,6,1,5,10,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.7245
+---------- Run 1 ----------
+Preparing: chainCL,6,1,30,7,1,6,12,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 1.77
+---------- Run 2 ----------
+Preparing: chainCL,6,2,30,7,1,6,12,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 1.6711
+---------- Run 3 ----------
+Preparing: chainCL,6,3,30,7,1,6,12,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.8281
+---------- Run 1 ----------
+Preparing: chainCL,7,1,35,8,1,7,14,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 1.7293
+---------- Run 2 ----------
+Preparing: chainCL,7,2,35,8,1,7,14,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 2.2822
+---------- Run 3 ----------
+Preparing: chainCL,7,3,35,8,1,7,14,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 1.7587
+---------- Run 1 ----------
+Preparing: chainCL,8,1,40,9,1,8,16,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.3803
+---------- Run 2 ----------
+Preparing: chainCL,8,2,40,9,1,8,16,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 7.1465
+---------- Run 3 ----------
+Preparing: chainCL,8,3,40,9,1,8,16,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.041
+---------- Run 1 ----------
+Preparing: chainCL,9,1,45,10,1,9,18,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 9.8395
+---------- Run 2 ----------
+Preparing: chainCL,9,2,45,10,1,9,18,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 20.4609
+---------- Run 3 ----------
+Preparing: chainCL,9,3,45,10,1,9,18,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 10.0853
+---------- Run 1 ----------
+Preparing: chainCL,10,1,50,11,1,10,20,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 30.84
+---------- Run 2 ----------
+Preparing: chainCL,10,2,50,11,1,10,20,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 43.2125
+---------- Run 3 ----------
+Preparing: chainCL,10,3,50,11,1,10,20,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 25.7104
+---------- Run 1 ----------
+Preparing: chainCL,11,1,55,12,1,11,22,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 65.9125
+---------- Run 2 ----------
+Preparing: chainCL,11,2,55,12,1,11,22,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 74.2133
+---------- Run 3 ----------
+Preparing: chainCL,11,3,55,12,1,11,22,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 79.4022
+---------- Run 1 ----------
+Preparing: chainCL,12,1,60,13,1,12,24,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 133.6837
+---------- Run 2 ----------
+Preparing: chainCL,12,2,60,13,1,12,24,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 147.0494
+---------- Run 3 ----------
+Preparing: chainCL,12,3,60,13,1,12,24,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 133.5658
+---------- Run 1 ----------
+Preparing: chainCL,13,1,65,14,1,13,26,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 311.9855
+---------- Run 2 ----------
+Preparing: chainCL,13,2,65,14,1,13,26,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 306.8052
+---------- Run 3 ----------
+Preparing: chainCL,13,3,65,14,1,13,26,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 317.7498
+---------- Run 1 ----------
+Preparing: chainCL,14,1,70,15,1,14,28,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 730.9945
+---------- Run 2 ----------
+Preparing: chainCL,14,2,70,15,1,14,28,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 747.947
+---------- Run 3 ----------
+Preparing: chainCL,14,3,70,15,1,14,28,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 774.6482
+---------- Run 1 ----------
+Preparing: chainCL,15,1,75,16,1,15,30,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 1740.5241
+---------- Run 2 ----------
+Preparing: chainCL,15,2,75,16,1,15,30,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 1712.6688
+---------- Run 3 ----------
+Preparing: chainCL,15,3,75,16,1,15,30,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 1704.2395
+---------- Run 1 ----------
+Preparing: chainCL,16,1,80,17,1,16,32,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 3955.9255
+---------- Run 2 ----------
+Preparing: chainCL,16,2,80,17,1,16,32,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4066.4577
+---------- Run 3 ----------
+Preparing: chainCL,16,3,80,17,1,16,32,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4042.5764
+---------- Run 1 ----------
+Preparing: chainCL,17,1,85,18,1,17,34,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 9411.4223
+---------- Run 2 ----------
+Preparing: chainCL,17,2,85,18,1,17,34,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 9441.1047
+---------- Run 3 ----------
+Preparing: chainCL,17,3,85,18,1,17,34,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 9679.4163
+---------- Run 1 ----------
+Preparing: chainCL,18,1,90,19,1,18,36,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 21828.2208
+---------- Run 2 ----------
+Preparing: chainCL,18,2,90,19,1,18,36,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 21348.1957
+---------- Run 3 ----------
+Preparing: chainCL,18,3,90,19,1,18,36,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 21074.5914
+---------- Run 1 ----------
+Preparing: chainCL,19,1,95,20,1,19,38,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 49213.2116
+---------- Run 2 ----------
+Preparing: chainCL,19,2,95,20,1,19,38,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 50820.5777
+---------- Run 3 ----------
+Preparing: chainCL,19,3,95,20,1,19,38,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 48157.596
+---------- Run 1 ----------
+Preparing: chainCL,20,1,100,21,1,20,40,True,True
+Status: Timeout at 100 seconds
+family stopped
+===== Nested chain =====
+---------- Run 1 ----------
+Preparing: nestedChainCL,2,1,13,6,2,4,8,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 6.83e-2
+---------- Run 2 ----------
+Preparing: nestedChainCL,2,2,13,6,2,4,8,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 8.0e-2
+---------- Run 3 ----------
+Preparing: nestedChainCL,2,3,13,6,2,4,8,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.1216
+---------- Run 1 ----------
+Preparing: nestedChainCL,3,1,19,8,2,6,12,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.3399
+---------- Run 2 ----------
+Preparing: nestedChainCL,3,2,19,8,2,6,12,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.2802
+---------- Run 3 ----------
+Preparing: nestedChainCL,3,3,19,8,2,6,12,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.2262
+---------- Run 1 ----------
+Preparing: nestedChainCL,4,1,25,10,2,8,16,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.5145
+---------- Run 2 ----------
+Preparing: nestedChainCL,4,2,25,10,2,8,16,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 0.5118
+---------- Run 3 ----------
+Preparing: nestedChainCL,4,3,25,10,2,8,16,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 1.6091
+---------- Run 1 ----------
+Preparing: nestedChainCL,5,1,31,12,2,10,20,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.5011
+---------- Run 2 ----------
+Preparing: nestedChainCL,5,2,31,12,2,10,20,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 4.4317
+---------- Run 3 ----------
+Preparing: nestedChainCL,5,3,31,12,2,10,20,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 3.1384
+---------- Run 1 ----------
+Preparing: nestedChainCL,6,1,37,14,2,12,24,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 13.4674
+---------- Run 2 ----------
+Preparing: nestedChainCL,6,2,37,14,2,12,24,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 13.3715
+---------- Run 3 ----------
+Preparing: nestedChainCL,6,3,37,14,2,12,24,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 5.6535
+---------- Run 1 ----------
+Preparing: nestedChainCL,7,1,43,16,2,14,28,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 20.1258
+---------- Run 2 ----------
+Preparing: nestedChainCL,7,2,43,16,2,14,28,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 19.6003
+---------- Run 3 ----------
+Preparing: nestedChainCL,7,3,43,16,2,14,28,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 24.3712
+---------- Run 1 ----------
+Preparing: nestedChainCL,8,1,49,18,2,16,32,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 76.259
+---------- Run 2 ----------
+Preparing: nestedChainCL,8,2,49,18,2,16,32,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 73.0807
+---------- Run 3 ----------
+Preparing: nestedChainCL,8,3,49,18,2,16,32,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 67.2788
+---------- Run 1 ----------
+Preparing: nestedChainCL,9,1,55,20,2,18,36,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 244.0633
+---------- Run 2 ----------
+Preparing: nestedChainCL,9,2,55,20,2,18,36,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 238.8445
+---------- Run 3 ----------
+Preparing: nestedChainCL,9,3,55,20,2,18,36,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 247.8017
+---------- Run 1 ----------
+Preparing: nestedChainCL,10,1,61,22,2,20,40,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 842.0021
+---------- Run 2 ----------
+Preparing: nestedChainCL,10,2,61,22,2,20,40,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 830.2711
+---------- Run 3 ----------
+Preparing: nestedChainCL,10,3,61,22,2,20,40,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 840.1204
+---------- Run 1 ----------
+Preparing: nestedChainCL,11,1,67,24,2,22,44,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 3045.8059
+---------- Run 2 ----------
+Preparing: nestedChainCL,11,2,67,24,2,22,44,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 3024.4472
+---------- Run 3 ----------
+Preparing: nestedChainCL,11,3,67,24,2,22,44,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 2993.0042
+---------- Run 1 ----------
+Preparing: nestedChainCL,12,1,73,26,2,24,48,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 10604.2688
+---------- Run 2 ----------
+Preparing: nestedChainCL,12,2,73,26,2,24,48,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 10992.5001
+---------- Run 3 ----------
+Preparing: nestedChainCL,12,3,73,26,2,24,48,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 10616.8815
+---------- Run 1 ----------
+Preparing: nestedChainCL,13,1,79,28,2,26,52,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 36757.3027
+---------- Run 2 ----------
+Preparing: nestedChainCL,13,2,79,28,2,26,52,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 40467.2651
+---------- Run 3 ----------
+Preparing: nestedChainCL,13,3,79,28,2,26,52,True,True
+Status: Completed
+GenZ answer: True
+Agreement: True
+Runtime: 36834.3051
+---------- Run 1 ----------
+Preparing: nestedChainCL,14,1,85,30,2,28,56,True,True
+Status: Timeout at 100 seconds
+family stopped
+===== Runtime finished =====

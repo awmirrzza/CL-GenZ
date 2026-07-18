@@ -1,0 +1,9 @@
+*.aux
+*.fdb*
+*.fls
+*.log
+*.pdf
+*.synctex*
+memory*.md
+table*.md
+memory*.tex

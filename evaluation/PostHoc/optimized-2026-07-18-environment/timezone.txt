@@ -1,0 +1,3 @@
+Id            : W. Europe Standard Time
+DisplayName   : (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna
+BaseUtcOffset : 01:00:00

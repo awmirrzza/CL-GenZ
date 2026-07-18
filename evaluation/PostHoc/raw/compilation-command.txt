@@ -1,0 +1,1 @@
+stack ghci .\lib\Logic\Coalition\Evaluation\PostHoc\Dblrun.hs

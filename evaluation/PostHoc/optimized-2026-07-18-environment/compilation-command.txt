@@ -1,0 +1,1 @@
+stack ghc -- -fforce-recomp -O2 -Wall -ilib lib/Logic/Coalition/Evaluation/PostHoc/Dblrun2nd.hs -main-is Logic.Coalition.Evaluation.PostHoc.Dblrun2nd.main -o evaluation/PostHoc/dblrun-2nd-o2-2026-07-18.exe

@@ -1,0 +1,107 @@
+Evidence recorded: 2026-07-18T19:44:16.3310394+02:00
+Execution mode: compiled executable with GHC -O2
+Process exit code: not captured
+Final completion message found: True
+Total recorded rows: 67
+Completed rows: 66
+Timeout rows: 1
+Other problem rows: 0
+Non-agreeing completed rows: 0
+Complete three-run median rows: 22
+Timeout: outcomeMonotonicity, n=2560, run=1
+Outcome n=5120 was not attempted because the family stopped after the timeout.
+Runtime unit: milliseconds
+Timeout limit: 100 seconds per run
+Each completed instance was executed three times.
+Reported summaries use the median of the three completed runs.
+This optimized dataset is separate from the earlier GHCi post-hoc dataset.
+The two timing datasets must not be combined.
+Input checks and structural measurements were performed before timing.
+Because Haskell is lazy, complete exclusion of every deferred computation is not guaranteed.
+
+Compile command:
+stack ghc -- -fforce-recomp -O2 -Wall -ilib lib/Logic/Coalition/Evaluation/PostHoc/Dblrun2nd.hs -main-is Logic.Coalition.Evaluation.PostHoc.Dblrun2nd.main -o evaluation/PostHoc/dblrun-2nd-o2-2026-07-18.exe
+
+Execution command:
+.\evaluation\PostHoc\dblrun-2nd-o2-2026-07-18.exe 2>&1 | Tee-Object -FilePath .\evaluation\PostHoc\dblrun-2nd-o2-console-2026-07-18.txt
+
+SHA-256 hashes:
+
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\PostHoc\double-runtime-2nd-2026-07-18.csv
+Algorithm : SHA256
+Hash      : 9CF68A600C9DCE0E5E24134E3A5BED21997FAF4B23B74535A74F8E8DF37C6060
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\PostHoc\double-runtime-2nd-o2-medians-2026-07-18.csv
+Algorithm : SHA256
+Hash      : 5A0D9EE439C3C745C214EFB8F62FCB0C57B598BFF237A5758059757C2E86138C
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\PostHoc\dblrun-2nd-o2-console-2026-07-18.txt
+Algorithm : SHA256
+Hash      : C665D9035E11C158B8DA15EF46EA03F98BD093A537EB73751304B048C92C5F10
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\PostHoc\optimized-2026-07-18-source\Basics.hs
+Algorithm : SHA256
+Hash      : DB082DA9E430C879B168410CBC5054AC6777898366510509E08EE255780751CB
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\PostHoc\optimized-2026-07-18-source\General.hs
+Algorithm : SHA256
+Hash      : D9EF670D89276855D5D8CDCF50EF03167DC9AD15DC2E8F87DA57BE4A733EA6D1
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\PostHoc\optimized-2026-07-18-source\Amir_CL.hs
+Algorithm : SHA256
+Hash      : FA39E1A1FD192C9BF69DE5A258D2D883065B03DB95784579CC0835D8BC89856B
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\PostHoc\optimized-2026-07-18-source\BenchmarkFamilies.hs
+Algorithm : SHA256
+Hash      : B4A70E0966591FD732E8EC59CB7947D53E0ABD32036BF0DC5267F64459B115C7
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\PostHoc\optimized-2026-07-18-source\BenchmarkProperties.hs
+Algorithm : SHA256
+Hash      : 9E38A134A6891F9FB02F93EE3A1C6F26DA7AC959E530C1D191BDCF74150F83FC
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\PostHoc\optimized-2026-07-18-source\Dblrun2nd.hs
+Algorithm : SHA256
+Hash      : C538C318CCF1DC9BD5618FF6F566DE06DC41E9CE714A9C5F71876C92C0919F78
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\PostHoc\optimized-2026-07-18-environment\compilation-command.txt
+Algorithm : SHA256
+Hash      : 0980AF3776E1F6C1602F6A2893733954DA9862DC999BFBEC0174CF3827896196
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\PostHoc\optimized-2026-07-18-environment\execution-command.txt
+Algorithm : SHA256
+Hash      : 068E41850E46759815CC28A344CD7827ACDC3B363C3315FC620D781127DFA03B
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\PostHoc\optimized-2026-07-18-environment\experiment-date.txt
+Algorithm : SHA256
+Hash      : 73D526153C4A7E73AD2A5F4C26B88416A262C70B9511B87ECD3B4FBA6A256F7C
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\PostHoc\optimized-2026-07-18-environment\experiment-settings.txt
+Algorithm : SHA256
+Hash      : 22EB10283C610239A03486EA32BB9B17F264BD1D51CE37ACBF041F8EF74FE670
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\PostHoc\optimized-2026-07-18-environment\stack-version.txt
+Algorithm : SHA256
+Hash      : DE0A4EFDE52F42837DC991FFD05C5D8F12D32C14FDB863472CEF6BC8E0CA8E52
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\PostHoc\optimized-2026-07-18-environment\ghc-version.txt
+Algorithm : SHA256
+Hash      : 5E49CBFF47AEF39E3C89B82B8CED4CA4A25AD5A012A26A67162002168A2C2862
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\PostHoc\optimized-2026-07-18-environment\processor.txt
+Algorithm : SHA256
+Hash      : 1E5B822041D832EABAE0078CDF73D7E5BDCAE9D356BA2D136B299285BBE1A48B
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\PostHoc\optimized-2026-07-18-environment\memory-hardware.txt
+Algorithm : SHA256
+Hash      : EADA9FF21D6519766BA7738E3F1235857CF79A236D0BAABE6C07474BC780A8C9
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\PostHoc\optimized-2026-07-18-environment\operating-system.txt
+Algorithm : SHA256
+Hash      : 8B686E9F1EC18BC675C34A3DA0CE68A8ED54D97E1D1DF916396FDFD04A4CCBC9
+
+Path      : C:\Users\User\Desktop\GenZ\evaluation\PostHoc\optimized-2026-07-18-environment\timezone.txt
+Algorithm : SHA256
+Hash      : 59BA264879C2EB0C81322DACA41B2546E32B6EA717C0D8CF4A79998BA0AAEC4D
+
+

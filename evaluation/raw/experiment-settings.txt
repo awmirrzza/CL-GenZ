@@ -1,0 +1,18 @@
+Prover: isProvableZ
+Compilation: GHC with -O2
+Runs per completed formula: 3
+Raw runtime: milliseconds
+Reported runtime: seconds
+Timeout per run: 100 seconds
+Summary: median of three completed runs
+Number of benchmark families: 7
+Most family ranges: n=2 to n=21
+nestingBox range: n=1 to n=20
+Stopping rule: stop a family after its first unsuccessful run
+validity checked before timing
+Formula size, boxes, depth and agents calculated before timing
+Raw rows: 392
+Completed executions: 390
+Timeouts: 2
+chainCL first timeout: n=20
+nestedChainCL first timeout: n=14
