@@ -1,0 +1,26 @@
+% Final captions for the evaluation figures. Frozen after this write.
+
+% Fig. 1 - main text
+\caption{The seven predefined benchmark families were tested with different values of the family parameter \(n\). Each completed benchmark instance was run three times, and the median runtime was calculated. Runtime is reported in seconds on a logarithmic scale. The program was compiled with GHC \texttt{-O2}. Nested chain at \(n=14\) and chain at \(n=20\) timed out at the \(100\,\mathrm{s}\) limit and are not plotted as completed runtime measurements. Because \(n\) has a different meaning in each family, families are compared at the same \(n\) only when their measured formula features are the same.}
+\label{fig:runtime-vs-n}
+
+% Fig. 2 - main text
+\caption{The exploratory post-hoc extension tested three benchmark families by doubling the family parameter \(n\) at each step. Each completed benchmark instance was run three times, and the median runtime was calculated. Runtime is reported in seconds on a logarithmic scale. The program was compiled with GHC \texttt{-O2}. Coalition monotonicity and nested \([C]\) formulas completed through \(n=5120\). Outcome monotonicity completed through \(n=1280\) and timed out at the \(100\,\mathrm{s}\) limit at \(n=2560\). The program stopped testing this family after the timeout, so \(n=5120\) was not attempted. The timeout is not plotted as a completed runtime measurement. Because \(n\) has a different meaning in each family, families are compared at the same \(n\) only when their measured formula features are the same.}
+\label{fig:posthoc-runtime}
+
+% Fig. 3a - main text
+\caption{Median GenZ runtime in relation to formula size, measured in formula pieces. Each completed benchmark instance was run three times, and the median runtime was calculated. Runtime is reported in seconds on a logarithmic scale, and lines connect successive benchmark instances. Only families in which formula size changes are shown. Light blue denotes chain, grey nested chain, purple outcome monotonicity, yellow nested \([C]\) formulas, green superadditivity, and dark blue non-valid superadditivity. The graph shows how runtime changes with formula size, but other parts of the formula also change and may also affect runtime.}
+\label{fig:formula-size}
+
+% Fig. 3b - appendix
+\caption{Median GenZ runtime in relation to the \([C]\) count. Each completed benchmark instance was run three times, and the median runtime was calculated. Runtime is reported in seconds on a logarithmic scale, and lines connect successive benchmark instances. Only families in which the \([C]\) count changes are shown. Light blue denotes chain, grey nested chain, yellow nested \([C]\) formulas, green superadditivity, and dark blue non-valid superadditivity. The graph shows how runtime changes with the \([C]\) count, but other parts of the formula also change and may also affect runtime.}
+\label{fig:c-count}
+
+% Fig. 3c - appendix
+\caption{Median GenZ runtime in relation to the number of nesting levels for the nested \([C]\) formulas family. Each completed benchmark instance was run three times, and the median runtime was calculated. Runtime is reported in seconds on a linear scale over the observed sub-millisecond range, and lines connect successive benchmark instances. This is the only benchmark family in which the number of nesting levels changes. Because the number of nesting levels equals \(n\) for this family, this graph corresponds to its runtime curve against \(n\). The graph shows how runtime changes with the number of nesting levels, but other parts of the formula also change and may also affect runtime.}
+\label{fig:nesting-levels}
+
+% Fig. 3d - appendix
+\caption{Median GenZ runtime in relation to the sum of coalition sizes, calculated as \(\sum_i |C_i|\). Each completed benchmark instance was run three times, and the median runtime was calculated. Runtime is reported in seconds on a logarithmic scale, and lines connect successive benchmark instances. Only families in which the sum of coalition sizes changes are shown. Light blue denotes chain, grey nested chain, orange coalition monotonicity, yellow nested \([C]\) formulas, green superadditivity, and dark blue non-valid superadditivity. The graph shows how runtime changes with the sum of coalition sizes, but other parts of the formula also change and may also affect runtime.}
+\label{fig:sum-coalition-sizes}
+
