@@ -93,7 +93,7 @@ condition10 = ImpCL (ConCL emptyp emptyq) (BoxCL emptyCoalition (ConCL p q))
 
 -- invalid coalition
 condition11 :: Bool
-condition11 = isLeft (boxCheck fixedSetAG (BoxCL cInvalid r))
+condition11 = isvalidformula fixedSetAG (BoxCL cInvalid r)
 
 
 cases :: [(String, CL, Bool)]
@@ -128,8 +128,8 @@ main = do
     ( "condition11"
         ++ "," ++ show (isvalidformula fixedSetAG (BoxCL cInvalid r))
         ++ ",Error"
-        ++ "," ++ (if condition11 then "Error" else "NoError")
-        ++ "," ++ show condition11
+        ++ "," ++ (if condition11 then "NoError" else "Error")
+        ++ "," ++ show (not condition11)
     )
 
   where
