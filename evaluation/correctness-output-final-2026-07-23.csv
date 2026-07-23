@@ -1,0 +1,13 @@
+propertyName,isValid,isExpected,genZexpected,genZ,genTexpected,genT,isAgreed
+L1,True,True,True,True,True,True,True
+L1',True,False,True,False,True,False,True
+S1,True,True,True,True,True,True,True
+S1',True,False,True,False,True,False,True
+OM1,True,True,True,True,True,True,True
+OM1',True,False,True,False,True,False,True
+SA1,True,True,True,True,True,True,True
+SA1',True,False,True,False,True,False,True
+AGMax1,True,True,True,True,True,True,True
+AGMax1',True,False,True,False,True,False,True
+CM1,True,True,True,True,True,True,True
+CM1',True,False,True,False,True,False,True

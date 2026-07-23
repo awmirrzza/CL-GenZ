@@ -16,16 +16,17 @@ negF f = ImpCL f BotCL
 
 
 l1 :: CL
-l1 = negF (BoxCL (Set.singleton 3) BotCL)
+l1 = BoxCL (Set.singleton 3) (negF BotCL)
 
 l1prime :: CL
-l1prime = BoxCL (Set.singleton 3) BotCL
+l1prime = negF (BoxCL (Set.singleton 3) (negF BotCL))
 
 s1 :: CL
-s1 = BoxCL (Set.singleton 3) (negF BotCL)
+s1 = negF (BoxCL (Set.singleton 3) BotCL)
+
 
 s1prime :: CL
-s1prime = negF (BoxCL (Set.singleton 3) (negF BotCL))
+s1prime = BoxCL (Set.singleton 3) BotCL
 
 om1 :: CL
 om1 = ImpCL (BoxCL (Set.singleton 3) (ConCL p q))
