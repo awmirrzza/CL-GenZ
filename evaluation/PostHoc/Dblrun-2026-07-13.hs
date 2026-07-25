@@ -290,23 +290,23 @@ main = do
         ]
 
 
-  putStrLn "===== Exploratory coalition monotonicity ====="
+  putStrLn "===== coalition monotonicity ====="
   familyRunning
     [ coalitionMonotonicity n
     | n <- dbl
     ]
 
-  putStrLn "===== Exploratory nesting boxes ====="
+  putStrLn "===== nesting boxes ====="
   familyRunning
     [ nestingBox n
     | n <- dbl
     ]
 
-  putStrLn "===== Exploratory outcome monotonicity ====="
+  putStrLn "=====  outcome monotonicity ====="
   familyRunning
     [ outcomeMonotonicity n
     | n <- dbl
     ]
 
 
-  putStrLn "===== Exploratory doubling experiment finished ====="
+  putStrLn "===== doubling experiment finished ====="
