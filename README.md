@@ -7,10 +7,6 @@ Logic in the GenZ prover. It was developed for the thesis
 The project adds Coalition Logic to GenZ while reusing its existing
 sequent representation and proof-search procedures.
 
-A detailed guide connecting the thesis results to their supporting
-source code, data, and figures is available in the
-[thesis implementation and evaluation guide](./lib/Logic/Coalition/README.md).
-
 ## Credits
 
 This project is based on the original GenZ repository maintained by
