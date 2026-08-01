@@ -190,5 +190,3 @@ The implementation and evaluation files used in the thesis are stored
 in commit
 [`cc8f36e`](https://github.com/awmirrzza/CL-GenZ/commit/cc8f36e6722d309595684941c54f7c6a643a134f).
 
-The README may be added in a later commit, but `cc8f36e` remains the
-fixed version used for the thesis evaluation.
