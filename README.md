@@ -33,7 +33,7 @@ I added:
 - seven runtime benchmark families;
 - measurements of the benchmark formulas;
 - a main runtime experiment compiled with GHC `-O2`;
-- a post-hoc experiment compiled with GHC `-O2`; and
+- a post-hoc experiment compiled with GHC `-O2` and without GHC `-O2`; and
 - the source code, results, settings, analysis files, and figures.
 
 ## Main files
