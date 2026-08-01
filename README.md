@@ -22,8 +22,6 @@ This repository uses the GNU General Public License version 3. See
 
 ## What I added
 
-I added:
-
 - the syntax of Coalition Logic;
 - agents, coalitions, and configurable agent universes;
 - a check that every coalition belongs to the selected agent universe;
